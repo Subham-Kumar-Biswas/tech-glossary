@@ -1,4 +1,4 @@
-#Beginner Tech Glossary
+Beginner Tech Glossary
 
 A simple and beginner-friendly glossary that explains common IT and web development terms in clear language.
 Created using only HTML, this project helps students, tech beginners, and self-learners understand essential concepts easily.
